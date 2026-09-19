@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.sai.privacyfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChatComponentMixin",
+    "HudTextMixin",
+    "TextDrawMixin",
+    "EditBoxGuardMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "saisprivacyfix",
+  "version": "${version}",
+  "name": "Sai's PrivacyFix",
+  "description": "Makes your client look like an unmodified vanilla client on the wire: vanilla brand, no mod channel list, no translation/keybind probes, no server-list exposure, no telemetry or Realms polling, no identity headers on pack downloads, and chat that need not be signed to your account. Can also hide your name, everyone else's and the server address everywhere the client draws them, and carries a node editor for rewriting your own outbound packets. Works with any Fabric mod, present or future. Supports Vanilla (Fabric) and Lunar Client only; Badlion and Feather are not supported.",
+  "authors": [
+    "Sai"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.sai.privacyfix.PrivacyFix"
+    ]
+  },
+  "mixins": [
+    "saisprivacyfix.mixins.json",
+    "saisprivacyfix-version.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "fabric-api": "*"
+  },
+  "icon": "assets/saisprivacyfix/icon.png"
+}

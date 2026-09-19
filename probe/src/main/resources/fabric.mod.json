@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "privacyfix_probe",
+  "version": "${version}",
+  "name": "PrivacyFix Probe Server (test rig)",
+  "description": "Logs what a server sees from a client and offers /probe and /probeanvil. Test only.",
+  "environment": "server",
+  "entrypoints": {
+    "server": [
+      "dev.sai.privacyfix.probe.ProbeServer"
+    ]
+  },
+  "mixins": [
+    "privacyfix-probe.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "fabric-api": "*"
+  }
+}

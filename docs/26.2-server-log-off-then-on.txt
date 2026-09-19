@@ -1,0 +1,12 @@
+[03:01:12] [Netty NIO IO #1/INFO]: [ServerConfiguration] CLIENT BRAND = "fabric"
+[03:01:12] [Netty NIO IO #1/INFO]: [config] CLIENT INFO = ClientInformation[language=en_gb, viewDistance=12, chatVisibility=FULL, chatColors=true, modelCustomisation=127, mainHand=RIGHT, textFilteringEnabled=false, allowsListing=true, particleStatus=ALL]
+[03:01:14] [Server thread/INFO]: CHANNELS REGISTERED BY CLIENT = [fabric:recipe_sync, fabric:attachment_sync_v1, fabric-menu-api-v1:open_screen]
+[03:01:21] [Netty NIO IO #1/INFO]: SIGN PROBE RESULT lines= PRIVACYFIX IS INSTALLED | key.somemod.does_not_exist | Singleplayer | 
+[03:01:21] [Netty NIO IO #1/INFO]: ANVIL PROBE RESULT name= PRIVACYFIX IS INSTALLED
+[03:01:21] [Server thread/INFO]: ANVIL PROBE RESULT name= PRIVACYFIX IS INSTALLED
+[03:02:28] [Netty NIO IO #2/INFO]: [ServerConfiguration] CLIENT BRAND = "vanilla"
+[03:02:28] [Netty NIO IO #2/INFO]: [config] CLIENT INFO = ClientInformation[language=en_us, viewDistance=12, chatVisibility=FULL, chatColors=true, modelCustomisation=127, mainHand=RIGHT, textFilteringEnabled=false, allowsListing=false, particleStatus=ALL]
+[03:02:29] [Server thread/INFO]: CHANNELS REGISTERED BY CLIENT = []
+[03:02:37] [Netty NIO IO #2/INFO]: SIGN PROBE RESULT lines= key.saisprivacyfix.probe_test | key.somemod.does_not_exist | Singleplayer | 
+[03:02:37] [Netty NIO IO #2/INFO]: ANVIL PROBE RESULT name= key.saisprivacyfix.probe_test
+[03:02:37] [Server thread/INFO]: ANVIL PROBE RESULT name= key.saisprivacyfix.probe_test

@@ -1,0 +1,6 @@
+[03:04:32] [Netty NIO IO #1/INFO]: [class_8610] CLIENT BRAND = "vanilla"
+[03:04:32] [Netty NIO IO #1/INFO]: [config] CLIENT INFO = class_8791[language=en_us, viewDistance=12, chatVisibility=FULL, chatColors=true, modelCustomisation=127, mainHand=RIGHT, textFilteringEnabled=false, allowsListing=false, particleStatus=ALL]
+[03:04:34] [Server thread/INFO]: CHANNELS REGISTERED BY CLIENT = []
+[03:04:42] [Netty NIO IO #1/INFO]: SIGN PROBE RESULT lines= key.saisprivacyfix.probe_test | key.somemod.does_not_exist | Singleplayer | 
+[03:04:42] [Netty NIO IO #1/INFO]: ANVIL PROBE RESULT name= key.saisprivacyfix.probe_test
+[03:04:42] [Server thread/INFO]: ANVIL PROBE RESULT name= key.saisprivacyfix.probe_test

@@ -1,0 +1,33 @@
+[11:47:59.732] [] brand: "lunarclient:8ef9d76/dev,fabric" -> "vanilla"
+[11:47:59.737] [] client information: allowsListing true -> false;
+[11:48:00.097] [] server sent custom payload on channel minecraft:register
+[11:48:00.231] [] server sent custom payload on channel vv:server_details
+[11:48:00.969] [] dropped outbound custom payload on channel marlowcrystal:version
+[11:48:01.072] [] dropped outbound custom payload on channel voicechat:request_secret
+[11:48:01.131] [] dropped outbound custom payload on channel minecraft:register
+[11:48:01.601] [] dropped outbound custom payload on channel minecraft:register
+[11:48:01.641] [] dropped outbound custom payload on channel lunar:apollo
+[11:48:01.642] [] dropped outbound custom payload on channel worldedit:cui
+[11:48:02.762] [] sign editor line 0: "6570a4af-0970-4bf0-b3dd-99e46402df30"
+[11:48:02.764] [] sign editor line 1:  + translate(key.mouse.left fallback="") + "|" + translate(key.mouse.right fallback="") + "|" + translate(key.mouse.middle fallback="") + "|"
+[11:48:02.786] [] sign editor line 2:  + translate(key.mouse fallback="") + "|" + keybind(key.attack) + "|" + keybind(key.use) + "|"
+[11:48:02.802] [] sign editor line 0: "6744dbc1-0648-4357-9658-a1fc2fc503c0"
+[11:48:02.804] [] sign editor line 1:  + keybind(key.accurateblockplacement.toggle) + "|" + keybind(key.automine.toggle) + "|" + keybind(key.autototem.toggle) + "|"
+[11:48:02.805] [] sign editor line 2:  + keybind(key.smartoffhand.totem_swap) + "|" + keybind(bedrockIfy.key.settings) + "|" + keybind(key.ecs.swap) + "|" + keybind(key.elytraswapper.swap) + "|"
+[11:48:02.806] [] sign editor line 3:  + keybind(key.freecam.toggle) + "|" + keybind(key.healthindicators.renderingEnabled) + "|" + keybind(key.legacy-freecam.toggle) + "|"
+[11:48:02.808] [] probe via sign editor: keybind:key.accurateblockplacement.toggle, keybind:key.automine.toggle, keybind:key.autototem.toggle, keybind:key.smartoffhand.totem_swap, keybind:bedrockIfy.key.settings, keybind:key.ecs.swap, keybind:key.elytraswapper.swap, keybind:key.freecam.toggle, keybind:key.healthindicators.renderingEnabled, keybind:key.legacy-freecam.toggle
+[11:48:02.824] [] sign editor line 0: "b4de3d87-b067-4202-b9c9-319164424675"
+[11:48:02.825] [] sign editor line 1:  + keybind(key.midnightcontrols.ring) + "|" + keybind(key.proplacer.fast_placement) + "|" + keybind(key.punchy.open_config) + "|"
+[11:48:02.826] [] sign editor line 2:  + keybind(key.shieldqol.settings) + "|" + keybind(key.shouldersurfing.free_look) + "|" + keybind(key.autototem.openconfig) + "|"
+[11:48:02.827] [] sign editor line 3:  + keybind(key.smartblockplacement.switch_smart_placement) + "|" + keybind(key.syncac.open_menu) + "|" + keybind(vivecraft.key.guiAlt) + "|"
+[11:48:02.829] [] probe via sign editor: keybind:key.midnightcontrols.ring, keybind:key.proplacer.fast_placement, keybind:key.punchy.open_config, keybind:key.shieldqol.settings, keybind:key.shouldersurfing.free_look, keybind:key.autototem.openconfig, keybind:key.smartblockplacement.switch_smart_placement, keybind:key.syncac.open_menu, keybind:vivecraft.key.guiAlt
+[11:48:02.845] [] sign editor line 0: "03c19cde-0632-4696-928e-a807a742af06"
+[11:48:02.847] [] sign editor line 1:  + keybind(key.walljump.walljump) + "|" + translate(text.dho.config.screen fallback="") + "|" + translate(fasterladderclimbing.config.title fallback="") + "|"
+[11:48:02.848] [] sign editor line 2:  + translate(inventoryprofiles.common.gui.config.advanced_keybind_settings fallback="") + "|" + translate(title.itemindicator.config fallback="") + "|"
+[11:48:02.849] [] sign editor line 3:  + translate(itemscroller.gui.label.trades fallback="") + "|" + translate(text.autoconfig.jumpoverfences.title fallback="") + "|"
+[11:48:02.850] [] probe via sign editor: keybind:key.walljump.walljump, text.dho.config.screen, fasterladderclimbing.config.title, inventoryprofiles.common.gui.config.advanced_keybind_settings, title.itemindicator.config, itemscroller.gui.label.trades, text.autoconfig.jumpoverfences.title
+[11:48:02.869] [] sign editor line 0: "5a16716c-646e-4018-90bd-3ee8a5cb35ae"
+[11:48:02.871] [] sign editor line 1:  + translate(lootbeams.keybindings.savePreset fallback="") + "|" + translate(option.moremousetweaks.keybinds fallback="") + "|"
+[11:48:02.872] [] sign editor line 2:  + translate(text.autoconfig.nojumpdelay.title fallback="") + "|" + translate(tweakeroo.config.feature_toggle.name.tweakFreeCamera fallback="") + "|"
+[11:48:02.874] [] sign editor line 3:  + translate(key.cartcore.crossbowcart fallback="") + "|"
+[11:48:02.875] [] probe via sign editor: lootbeams.keybindings.savePreset, option.moremousetweaks.keybinds, text.autoconfig.nojumpdelay.title, tweakeroo.config.feature_toggle.name.tweakFreeCamera, key.cartcore.crossbowcart

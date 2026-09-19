@@ -1,0 +1,37 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.sai.privacyfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ConnectionMixin",
+    "AbstractSignEditScreenMixin",
+    "AnvilScreenMixin",
+    "ClientTelemetryManagerMixin",
+    "ClientCommonPacketListenerImplMixin",
+    "PackDownloadHeadersMixin",
+    "RealmsNotificationsScreenMixin",
+    "RealmsAvailabilityMixin",
+    "RealmsClientMixin",
+    "ConfirmScreenMixin",
+    "PackConfirmScreenAccessor",
+    "PendingRequestAccessor",
+    "ConnectScreenMixin",
+    "ClientPacketListenerMixin",
+    "ChatScreenAccessor",
+    "ScreenMixin",
+    "DialogLockMixin",
+    "OptionsScreenMixin",
+    "PlayerTabOverlayMixin",
+    "PlayerDisplayNameMixin",
+    "SendChatMixin",
+    "ChatListenerMixin",
+    "CommandSuggestionsMixin",
+    "PlayerTeamMixin",
+    "ObjectiveMixin",
+    "WindowTitleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
